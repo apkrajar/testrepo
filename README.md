@@ -1,4 +1,4 @@
-# testrepo
+# Git Training
 
 
 Hello World
